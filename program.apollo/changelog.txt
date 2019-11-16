@@ -1,8 +1,7 @@
-[B]4.0.6[/B]
+[B]4.0.7[/B]
 + Fix: TV shows
 + Fix: Episodes order
 + Fix: Search
-
 
 [B]4.0.6[/B]
 + Add: Search
