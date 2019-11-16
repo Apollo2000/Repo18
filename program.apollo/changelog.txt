@@ -1,3 +1,6 @@
+[B]4.0.8[/B]
++ Fix: TV shows Non-English interface
+
 [B]4.0.7[/B]
 + Fix: TV shows
 + Fix: Episodes order
