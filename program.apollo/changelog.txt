@@ -1,4 +1,10 @@
 [B]4.0.6[/B]
++ Fix: TV shows
++ Fix: Episodes order
++ Fix: Search
+
+
+[B]4.0.6[/B]
 + Add: Search
 + Fix: Channels list
 
