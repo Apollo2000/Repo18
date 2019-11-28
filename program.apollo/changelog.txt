@@ -1,3 +1,7 @@
+[B]4.1.0[/B]
++ Update: TV shows APIv2.1
++ Add: My List (Favorites)
+
 [B]4.0.9[/B]
 + Add: TV shows and Movies by years
 
