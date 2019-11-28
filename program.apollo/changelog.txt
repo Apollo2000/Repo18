@@ -1,3 +1,6 @@
+[B]4.1.1[/B]
++ Fix: TV shows Episodes
+
 [B]4.1.0[/B]
 + Update: TV shows APIv2.1
 + Add: My List (Favorites)
