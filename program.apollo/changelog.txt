@@ -1,3 +1,7 @@
+[B]4.1.4[/B]
++ Fix: TV shows v3
++ Fix: Episode/Movie set as watched 
+
 [B]4.1.3[/B]
 + Add: TV shows Episodes - Last, My Episode, By date
 + Fix: Movies/TV show meta
