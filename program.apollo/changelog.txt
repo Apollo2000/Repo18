@@ -1,3 +1,6 @@
+[B]4.1.6[/B]
++ Fix: Movies don't start
+
 [B]4.1.5[/B]
 + Fix: When VOD watched can't watch again
 + Fix: Multi lang take too much time
