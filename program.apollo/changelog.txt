@@ -1,3 +1,7 @@
+[B]4.1.5[/B]
++ Fix: When VOD watched can't watch again
++ Fix: Multi lang take too much time
+
 [B]4.1.4[/B]
 + Fix: TV shows v3
 + Fix: Episode/Movie set as watched 
