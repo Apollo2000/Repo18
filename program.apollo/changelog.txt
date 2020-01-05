@@ -1,3 +1,6 @@
+[B]4.1.7[/B]
++ Fix: Missing TV shows
+
 [B]4.1.6[/B]
 + Fix: Movies don't start
 
